@@ -22,6 +22,8 @@ The bot:
 - You can set the maximum tokens by changing "m_t" variable.
 
 
+# Definitely it has a lot of cons to improve, but it was just simple project for me to not to get bored at that moment.
+
 Made with love in 2024–2025
 
 Feel free to star if you like it!
