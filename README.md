@@ -1,11 +1,13 @@
 # Telegram AI Voice Bot
 
 Hey! I'm 18 and this is one of the first real projects I ever built (when I was 17 and bored).
+i did every project only and only with my phone, on PyDroid3 and Termux.
 
 The bot:
 - You send a text message
-- GPT-4o answers in a super friendly way
+- GPT-4o answers
 - It turns the answer into voice and sends it back
+- It's able to maintain up to 10 pair of last message and replys(for GPT-4.o to remember).
 
 ### Demo
 *(coming soon)*
@@ -16,6 +18,9 @@ The bot:
 3. `pip install pyTelegramBotAPI openai gtts`
 4. Put your tokens in the script
 5. Run `python bot.py`
+
+- You can set the maximum tokens by changing "m_t" variable.
+
 
 Made with love in 2024–2025
 
